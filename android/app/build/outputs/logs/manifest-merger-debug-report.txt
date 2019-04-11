@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\00ce19451df6ba57755865c8379e9edc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3282b97db5584c7f171fbba359b5b5ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e4e67d36797d951088428c715de82dc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\55479a3ded5c80fe16ca978c7d05ffa1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bf6f65f3c9a7939ecd8cb238a90fe75f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\631b6aa4a60e1137b534f199bd9cfe58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1f344e1b4e9731c5aaa9bf691ff2d701\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bca9afa0723dabf933776aaed3a9b664\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8084b5ec02b7edf02d816fe27c5ebb5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e24e1da18005fe5b8680995f92496502\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f502ee4e30642271dcc597dd92dc34e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d403a8145624a233156ef3961c6474cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7f993579fd5e1cdc5a2d6404fefd0fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cda0cda694e81d27d35145cfca039d7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be4c7aa3efe76448f95d6af6b17a2d1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d3dbbb5c659bd2b51f400ae9dc14b62\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84e6e388accba86033564ed2789eee0d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a45f41d33f7b96c60d2dc349a8619e4e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c96febba7b6103a19a3b559246dfd619\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\42f6d0b6dd510f77fb447d5b3de6f2af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\32ba62fe20a36d3c4f747aa8c7488680\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8475e40c52a4d47370c52a8f9fb5ec62\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9426153bbda987ed6d86b2839967c4fd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\17291340011fcfa1b1c994a256161d1c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4785d62a424801ef17fd22e827ddff2b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\94cfb92100f0c4c8eecc5e6554d9cf12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3c0fb3cb3e31934e4c83a5bc10c77a2f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\200ab6ca0116218e384b7017570db272\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\9a03d4d3d13318c4a542a1a11c843bce\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\934439bb1f9685ed5775f33d89fee81e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\1685c5a3f75873223d601cc57c6ec6dd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\44056adedb2458b8d81e90e33bb40f41\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0e151f8373266014220733aeccd5247b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\8d5610550d41953b0c82ab75f02ebe61\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\00ce19451df6ba57755865c8379e9edc\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\00ce19451df6ba57755865c8379e9edc\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d3dbbb5c659bd2b51f400ae9dc14b62\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d3dbbb5c659bd2b51f400ae9dc14b62\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84e6e388accba86033564ed2789eee0d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84e6e388accba86033564ed2789eee0d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0e151f8373266014220733aeccd5247b\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0e151f8373266014220733aeccd5247b\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d3dbbb5c659bd2b51f400ae9dc14b62\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.jogjaukm.app.MainActivity
+ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\00ce19451df6ba57755865c8379e9edc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.4] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\react-native-0.59.4.aar\00ce19451df6ba57755865c8379e9edc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3282b97db5584c7f171fbba359b5b5ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3282b97db5584c7f171fbba359b5b5ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e4e67d36797d951088428c715de82dc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\e4e67d36797d951088428c715de82dc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\55479a3ded5c80fe16ca978c7d05ffa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\55479a3ded5c80fe16ca978c7d05ffa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bf6f65f3c9a7939ecd8cb238a90fe75f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\bf6f65f3c9a7939ecd8cb238a90fe75f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\631b6aa4a60e1137b534f199bd9cfe58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\631b6aa4a60e1137b534f199bd9cfe58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1f344e1b4e9731c5aaa9bf691ff2d701\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\1f344e1b4e9731c5aaa9bf691ff2d701\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bca9afa0723dabf933776aaed3a9b664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\bca9afa0723dabf933776aaed3a9b664\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8084b5ec02b7edf02d816fe27c5ebb5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\8084b5ec02b7edf02d816fe27c5ebb5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e24e1da18005fe5b8680995f92496502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e24e1da18005fe5b8680995f92496502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f502ee4e30642271dcc597dd92dc34e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f502ee4e30642271dcc597dd92dc34e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d403a8145624a233156ef3961c6474cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\d403a8145624a233156ef3961c6474cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7f993579fd5e1cdc5a2d6404fefd0fa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\7f993579fd5e1cdc5a2d6404fefd0fa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cda0cda694e81d27d35145cfca039d7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cda0cda694e81d27d35145cfca039d7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be4c7aa3efe76448f95d6af6b17a2d1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\be4c7aa3efe76448f95d6af6b17a2d1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d3dbbb5c659bd2b51f400ae9dc14b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0d3dbbb5c659bd2b51f400ae9dc14b62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84e6e388accba86033564ed2789eee0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\84e6e388accba86033564ed2789eee0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a45f41d33f7b96c60d2dc349a8619e4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a45f41d33f7b96c60d2dc349a8619e4e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c96febba7b6103a19a3b559246dfd619\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c96febba7b6103a19a3b559246dfd619\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\42f6d0b6dd510f77fb447d5b3de6f2af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\42f6d0b6dd510f77fb447d5b3de6f2af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\32ba62fe20a36d3c4f747aa8c7488680\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\32ba62fe20a36d3c4f747aa8c7488680\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8475e40c52a4d47370c52a8f9fb5ec62\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8475e40c52a4d47370c52a8f9fb5ec62\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9426153bbda987ed6d86b2839967c4fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9426153bbda987ed6d86b2839967c4fd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\17291340011fcfa1b1c994a256161d1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\17291340011fcfa1b1c994a256161d1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4785d62a424801ef17fd22e827ddff2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4785d62a424801ef17fd22e827ddff2b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\94cfb92100f0c4c8eecc5e6554d9cf12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\94cfb92100f0c4c8eecc5e6554d9cf12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3c0fb3cb3e31934e4c83a5bc10c77a2f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\3c0fb3cb3e31934e4c83a5bc10c77a2f\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\200ab6ca0116218e384b7017570db272\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\200ab6ca0116218e384b7017570db272\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\9a03d4d3d13318c4a542a1a11c843bce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\9a03d4d3d13318c4a542a1a11c843bce\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\934439bb1f9685ed5775f33d89fee81e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\934439bb1f9685ed5775f33d89fee81e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\1685c5a3f75873223d601cc57c6ec6dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\1685c5a3f75873223d601cc57c6ec6dd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\44056adedb2458b8d81e90e33bb40f41\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\44056adedb2458b8d81e90e33bb40f41\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0e151f8373266014220733aeccd5247b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\0e151f8373266014220733aeccd5247b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\8d5610550d41953b0c82ab75f02ebe61\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\TapaKuda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\8d5610550d41953b0c82ab75f02ebe61\AndroidManifest.xml:5:5-7:41
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from D:\PROJECT\Android\ukm\android\app\src\debug\AndroidManifest.xml:5:22-75
